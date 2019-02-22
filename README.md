@@ -12,8 +12,9 @@ This is specific to the JHU Libraries implementation of PASS.  If we host other 
 ##### Once on the server you have access to the following services
 
 `ENVIRONMENT=(test|demo|prod)`
+
 Service | Location
------- | ---
+------- | --------
 fcrepo | fcrepo-${ENVIRONMENT}.pass.local:8080
 elasticsearch | elasticsearch-${ENVIRONMENT}.pass.cloud.library.jhu.edu:80
 
