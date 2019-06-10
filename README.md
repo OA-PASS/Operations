@@ -11,7 +11,7 @@ This is specific to the JHU Libraries implementation of PASS.  If we host other 
 
 ##### Once on the server you have access to the following services
 
-`ENVIRONMENT=(test|demo|prod)`
+`ENVIRONMENT=(dev|test|demo|prod)`
 
 Service | Location
 ------- | --------
