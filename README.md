@@ -37,5 +37,5 @@ Host pass-test
     LocalForward 8080 fcrepo-test.pass.local:8080
     LocalForward 9200 elasticsearch-test.pass.cloud.library.jhu.edu:80
 ```
-Now you can type `ssh pass-test` and it'll bind ports 8080 and 9090 and connect.
+Now you can type `ssh pass-test` and it'll bind ports 8080 and 9200 and connect.
 
